@@ -1,0 +1,7 @@
+/.ipynb_checkpoints/
+*.png
+*.jld2
+*.gif
+*.mp4
+*.nc
+*.toml
